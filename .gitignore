@@ -113,3 +113,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My gitignore
+*.mp4
+04《动手学深度学习》源代码
+.ipynb_checkpoints
+.ipynb_checkpoints/
